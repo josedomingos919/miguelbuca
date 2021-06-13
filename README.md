@@ -1,7 +1,6 @@
 
 # Miguel Buca
 
-<br/>
 
 <br/>
 
