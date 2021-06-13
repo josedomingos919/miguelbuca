@@ -1,7 +1,9 @@
 
 # Miguel Buca
 
+<br/>
 
+<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-My%20Portifolio-050f2c?style=flat-square&labelColor=0c93e4&logo=internet-explorer&logoColor=white&link=https://miguelbuca.netlify.app/)](https://miguelbuca.netlify.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Buca-050f2c?style=flat-square&labelColor=0c93e4&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-buca-8691a21b6/)](https://www.linkedin.com/in/miguel-buca-8691a21b6/) 
