@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**miguelbuca/miguelbuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Miguel Buca
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-My%20Portifolio-050f2c?style=flat-square&labelColor=0c93e4&logo=internet-explorer&logoColor=white&link=https://miguelbuca.netlify.app/)](https://miguelbuca.netlify.app/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Buca-050f2c?style=flat-square&labelColor=0c93e4&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-buca-8691a21b6/)](https://www.linkedin.com/in/miguel-buca-8691a21b6/) 
+[![Gmail Badge](https://img.shields.io/badge/-migueldossantosRJ45@gmail.com-050f2c?style=flat-square&labelColor=0c93e4&logo=Gmail&logoColor=white&link=mailto:migueldossantosRJ45@gmail.com)](mailto:migueldossantosRJ45@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi
+
+Enthusiast of the best web, mobile and desktop development technologies.
+
+##### ReactJS | NextJS | React Native | Electron | Rest API
+
+##### `I'm full stack developer`
+
+Write well-structured, efficient, and testable code using software development best practices. Create website layout / UI using standard HTML / CSS practices. Integrate data from multiple backend services and databases.
+
+
+“  Trying doesn't mean achieving but certainly everyone who has tried has tried.”
+
+📈 My GitHub Stats
+<p>
+  <a href="https://github.com/miguelbuca?tab=repositories">
+    <img  width="500" height="auto" alt="Miguel's github stats" 
+          src="https://github-readme-stats.vercel.app/api?username=miguelbuca&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+</p>
+
+
+
+
